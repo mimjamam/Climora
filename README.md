@@ -12,7 +12,8 @@ A visually engaging, real-time weather application using the OpenWeatherMap API,
 
 ## 📸 Preview
 
-![screenshot](preview.png) <!-- optional: add a screenshot image -->
+<img src="images/preview.png" alt="App Screenshot" width="600" />
+
 
 ## 🔧 Technologies Used
 
